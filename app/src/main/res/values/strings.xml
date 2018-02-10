@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Suggestion App</string>
+    <string name="text_cannot_empty">Harus diisi</string>
+    <string name="text_loading">Silahkan Tunggu Beberapa Saat......</string>
+    <string name="text_send_suggestion">Kirim Saran</string>
+    <string name="text_sucess_send_suggestion">Saran telah dikirimkan</string>
+    <string name="text_suggestion">Saran</string>
+
+</resources>

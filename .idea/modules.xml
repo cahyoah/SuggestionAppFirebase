@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdviceApp.iml" filepath="$PROJECT_DIR$/AdviceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SuggestionAppFirebase.iml" filepath="$PROJECT_DIR$/.idea/SuggestionAppFirebase.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

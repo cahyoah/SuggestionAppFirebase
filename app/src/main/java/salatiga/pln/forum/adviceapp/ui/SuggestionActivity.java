@@ -20,6 +20,7 @@ public class SuggestionActivity extends AppCompatActivity implements SuggestionV
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_suggestion);
+        getSupportActionBar().setTitle("PLN APP Salatiga ");
         initView();
         initPresenter();
     }
@@ -51,6 +52,7 @@ public class SuggestionActivity extends AppCompatActivity implements SuggestionV
 
     @Override
     public void onSucessSendSuggestion() {
+        etSuggestion.setText("");
         ShowAlert.closeProgresDialog();
         ShowAlert.showToast(this, getResources().getString(R.string.text_sucess_send_suggestion));
     }

@@ -1,9 +1,55 @@
 <resources>
-    <string name="app_name">Suggestion App</string>
+    <string name="app_name">USER APP SL3</string>
     <string name="text_cannot_empty">Harus diisi</string>
     <string name="text_loading">Silahkan Tunggu Beberapa Saat......</string>
     <string name="text_send_suggestion">Kirim Saran</string>
     <string name="text_sucess_send_suggestion">Saran telah dikirimkan</string>
     <string name="text_suggestion">Saran</string>
+    <string name="sejarah_singkat">Sejarah Singkat\n\n
+\tPT PLN (Persero) APP Salatiga merupakan salah satu unit dari PT PLN (Persero) P3B Jawa Bali
+(sekarang Transmisi Jawa Bagian Tengah) dimana dibentuk berdasarkan SK Direktur No.
+1466.K/DIR/2011 tanggal 13 Desember 2011. (Sebelum organisasi baru)\n\n
+\tTugas Utama PT PLN (Persero) APP Salatiga adalah mengelola transmisi tenaga listrik di
+wilayah kerjanya yang meliputi Salatiga, Surakarta dan Yogyakarta</string>
+
+    <string name="visimisi">VISI\n\n
+\t\tDiakui sebagai Perusahaan Kelas Dunia yang Bertumbuh kembang, Unggul dan Terpercaya
+dengan bertumpu pada potensi insani\n\n\n
+MISI UTAMA\n\n
+\t\tMelakukan dan mengelola penyaluran tenaga listrik Menjalankan bisnis kelistrikan dan
+bidang lain yang terkait, berorientasi pada kepuasan pelanggan, anggota perusahaan dan
+pemegang saham\n\n
+\t\tMenjadikan tenaga listrik sebagai media untuk meningkatkan kualitas kehidupan masyarakat\n\n
+\t\tMengupayakan agar tenaga listrik menjadi pendorong kegiatan ekonomi\n\n
+\t\tMenjalankan kegiatan usaha yang berwawasan lingkungan\n</string>
+
+    <string name="GambaranuUmum">\tPembangkitan\n\n
+o Perencanaan dan Pegelolaan keadalan Pembangkitan\n\n
+o Operasi dan Pemeliharaan\n\n
+o Penyediaan Energi Primer\n\n
+o Keselamatan Ketenaga Listrikan\n\n\n
+\tTransmisi\n\n
+o Perencanaan dan Pengelolaan Keandalan Sistem Transmisi\n\n
+o Operasi dan Pemeliharaan\n\n
+o Keselamatan Ketenaga listrikan\n\n\n
+\tDistribusi\n\n
+o Perencanaan &amp; Pengelolaan Sistem\n\n
+o Operasi dan Pemeliharaan\n\n\n
+\tPelayanan Pelanggan\n\n
+o Niaga &amp; Pemasaran\n\n
+o Pelayanan Pelanggan\n\n
+o Pembacaan Meter\n\n
+o Penagihan\n\n
+o Pengembangan bisnis\n\n
+o Administrasi Pelanggan\n\n\n
+\tJasa jasa\n\n
+o Jasa Produksi\n\n
+o Jasa Enjinering\n\n
+o Sertifikasi\n\n
+o Penelitian dan Pengembangan\n\n
+o Pendidikan dan Pelatihan\n\n
+o Supervisi Konstruksi\n\n</string>
+
+
 
 </resources>
